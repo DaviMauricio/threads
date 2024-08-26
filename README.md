@@ -59,7 +59,7 @@ instância do armazém;
 observe as saídas;
 - Por fim, altere o “intervalo entre as colheitas” do segundo produtor para 10, execute o
 sistema e observe as saídas.
-============================
+
 Considere a segunda parte da atividade para responder as questões a seguir.
 01- Quais problemas podem ser observados nas interações do armazém com os
 produtores?
